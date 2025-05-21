@@ -8,7 +8,7 @@ module.exports = {
     method: "shell.run",
     params: {
       path: "app",
-      message: "update.bat"
+      message: "git pull"
     }
   }]
 }
